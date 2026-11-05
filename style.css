@@ -1,0 +1,33 @@
+body {
+    background: #f5f7fb;
+}
+
+main section {
+    background: #fff;
+    padding: 1.25rem;
+    border-radius: .75rem;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, .05);
+}
+
+h2 {
+    color: #173b70;
+}
+
+.table {
+    vertical-align: middle;
+}
+
+.navbar .nav-link {
+    color: rgba(255, 255, 255, .85);
+    border: 0;
+    background: transparent;
+}
+
+.navbar .nav-link.active {
+    color: #fff;
+    font-weight: 700;
+}
+
+.action-buttons {
+    white-space: nowrap;
+}
